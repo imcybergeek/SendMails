@@ -1,0 +1,38 @@
+#READ ALL THE INSTRUCTIONS CAREFULLY AND KEEP THIS FILE FOR YOUR FUTURE REFERENCE#
+
+1-> Create a recipientFormats.txt file
+2-> Write/paste one recipient format on each line
+
+TIPS:
+There are two arguments you can set for your emails here
+i.e., prefix and suffix for the recipients emails
+The format is,
+
+prefix:(Recipient Name e.g., xyz or xyz.com):suffix
+
+here, the two colon (:) represents seperating the prefix, recipient name and the suffix and 
+the colons should be present in each line
+
+You can define as many formats as you want, just follow these key points,
+anything before the first colon will be taken as prefix
+and
+anything after the second colon will be taken as suffix
+
+Note: No need to write anything between the colon as it is ignored and recipient names will be obtained from
+recipients.txt file and this file is only for defining the formats where the email will be sent.
+
+If sending mails to individuals, (say xyz at xyz@gmail.com and xyz@yahoo.com) then write as,
+For example:
+::@gmail.com
+::@yahoo.com
+
+If sending mails to websites, (say xyz.com at support@xyz.com and care@xyz.com) then write as,
+For example:
+support@::
+support@::
+
+If you dont want to use any recipient format then just write :: on the first line,
+For example:
+::
+
+

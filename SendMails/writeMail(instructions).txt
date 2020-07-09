@@ -1,0 +1,36 @@
+#READ ALL THE INSTRUCTIONS CAREFULLY AND KEEP THIS FILE FOR YOUR FUTURE REFERENCE#
+
+1-> Create a credentials.txt file and write your gmail id and password as given below:
+On the first line type,
+Gmail Id:(after this colon type your gmail id)
+On the second line type,
+Gmail Pwd:(after this colon type your gmail password)
+Example:
+Gmail Id:xyz@gmail.com
+Gmail Pwd:noobmaster69
+
+# the emails will be sent through this gmail ID
+# the script uses these credentials only for logging into your email id for sending mails.
+
+2-> Create a writeMail.txt file and write your mail as given below:
+On the first line type,
+Subject:(after this colon type the subject of your email)
+On the second line and onwards,
+(type the body of you mail)
+
+For Example:
+Subject:Thanks for making this script!
+Hey Cyber Geek
+
+I am (your name here) from (where you are from) and I want to thank you for creating this script 
+to automate the emailing process which is a boring and repetitive process. This takes a while to setup 
+but its worth it as  mass mails can be sent with this without ending up in spam mail.
+Thanks for being awesome!
+
+Regards
+(your name here)
+
+# If you want to test the script and say thanks to me for making the script then,
+# Fill up the example mail given above and,
+# Send it to me at therealcybergeek@gmail.com using this script ;)
+

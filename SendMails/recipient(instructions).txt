@@ -1,0 +1,34 @@
+#READ ALL THE INSTRUCTIONS CAREFULLY AND KEEP THIS FILE FOR YOUR FUTURE REFERENCE#
+
+1-> Create a recipient.txt file
+2-> Write/paste one recipient name on each line
+
+TIPS:
+If you want to send mail to individuals (say, xyz at xyz@gmail.com) then,
+just write xyz@gmail.com here and leave recipientFormats.txt with no inputs
+For Example:
+xyz@gmail.com
+jatin@gmail.com
+vansh@gmail.com
+or,
+If you want to send mail to an individual name at multiple emails,
+(say, xyz at xyz@gmail.com, xyz@outlook.com, xyz@yahoo.com) then,
+write their name (say xyz) here (i.e., their email initials) and define @gmail.com @yahoo.com in the recipientFormats.txt
+For Example:
+xyz
+jatin
+vansh
+
+similiarly,
+
+If you want to send mails to websites (for example: xyz.com)
+on two or more email address (for example: support@xyz.com, care@xyz.com) then,
+
+write their domain name here (say, xyz.com) anddefine prefix and suffix for the email as per need,
+in the recipientFormats.txt (for example: support@, care@.com)
+For Example:
+xyz.com
+jatin.com
+vansh.com
+
+
